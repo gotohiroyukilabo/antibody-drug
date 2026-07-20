@@ -3,6 +3,9 @@ generic_name: rituximab
 brand_names:
   - Rituxan
   - MabThera
+developers:
+  - IDEC Pharmaceuticals
+  - Genentech
 targets:
   - CD20
 modality: monoclonal_antibody
@@ -43,6 +46,10 @@ CD20はB細胞の発生途中から成熟B細胞まで発現する膜タンパ�
 弱点は正常B細胞も除去することによる感染防御の低下である。また、CD20発現低下、腫瘍細胞上のFcγRIIbによる抗体の内在化、補体制御分子などは抵抗性に関与し得る。ただし、患者ごとの抵抗性をどの機序が支配するかは完全には確定していない。[Limら](https://doi.org/10.1182/blood-2011-01-330357)
 
 ## 3. どんな抗体として設計されたか
+
+### 開発企業
+
+リツキシマブの前身IDEC-C2B8は、IDEC Pharmaceuticals（後のBiogen Idec、現Biogen）が創製し、前臨床研究と初期臨床開発を進めた。1995年にGenentechが加わり、両社で臨床開発と商業化を進めた。したがって、創製・初期開発はIDEC、承認へ向けた共同開発はIDECとGenentech、と役割を分けて理解するのが適切である。[Reffら](https://doi.org/10.1182/blood.V83.2.435.435)、[Genentech](https://www.gene.com/stories/timeless-partnerships)
 
 ### 基本設計
 
@@ -105,7 +112,7 @@ FDAは1997年にリツキシマブを初承認した。[FDA Purple Book](https:/
 3. [MabThera EPAR](https://www.ema.europa.eu/en/medicines/human/EPAR/mabthera), European Medicines Agency, 2025（アクセス日：2026-07-20）
 4. [Definition of diffuse large B-cell lymphoma](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/diffuse-large-b-cell-lymphoma), National Cancer Institute（アクセス日：2026-07-20）
 5. [Depletion of B cells in vivo by a chimeric mouse human monoclonal antibody to CD20](https://doi.org/10.1182/blood.V83.2.435.435), Reff ME et al., 1994
-6. [Phase I clinical trial using escalating single-dose infusion of chimeric anti-CD20 monoclonal antibody](https://doi.org/10.1182/blood.V84.8.2457.2457), Maloney DG et al., 1994
+6. [Timeless Partnerships: Rituxan collaboration history](https://www.gene.com/stories/timeless-partnerships), Genentech, 2017（アクセス日：2026-07-20）
 7. [CHOP chemotherapy plus rituximab compared with CHOP alone in elderly patients with diffuse large-B-cell lymphoma](https://doi.org/10.1056/NEJMoa011795), Coiffier B et al., 2002
 8. [Fc gamma receptor IIb on target B cells promotes rituximab internalization and reduces clinical efficacy](https://doi.org/10.1182/blood-2011-01-330357), Lim SH et al., 2011
 9. [Gazyvaro EPAR](https://www.ema.europa.eu/en/medicines/human/EPAR/gazyvaro), European Medicines Agency, 2026（アクセス日：2026-07-20）
